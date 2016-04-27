@@ -36,7 +36,7 @@ public class Application {
     private ApiInfo apiInfo() {
        ApiInfo apiInfo = new ApiInfo(
              "Swagger With Spring Boot",
-             "This is a simple application to demonstrate how to work with Swagger in Spring Boot project!",
+             "This is a simple application to demonstrate how to work with Swagger and JasperReports in Spring Boot project!",
              "Free to use and mess around",
              "erudio@gmail.com",
              "Open Licence",

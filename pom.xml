@@ -44,6 +44,13 @@
             <scope>provided</scope>
         </dependency>
         
+        <!-- Adicione as dependencias do JasperReports -->
+        <dependency>
+			<groupId>jasperreports</groupId>
+			<artifactId>jasperreports</artifactId>
+			<version>3.5.3</version>
+		</dependency>
+        
         <!-- Adicione as dependencias de teste -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
