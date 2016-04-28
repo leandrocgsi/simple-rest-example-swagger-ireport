@@ -1,6 +1,7 @@
 package br.com.erudio.models.fakedata;
 
 public class DataBean {
+	
 	private String name;
 	private String occupation;
 	private String place;
