@@ -29,7 +29,7 @@ public class Application {
     public SwaggerSpringMvcPlugin groupOnePlugin() {
        return new SwaggerSpringMvcPlugin(swaggerConfig)
            .apiInfo(apiInfo())
-           .includePatterns("/person.*?", "/greeting.*?")
+           .includePatterns("/person.*?", "/greeting.*?", "/report.*?")
            .swaggerGroup("admin");
     }
     
